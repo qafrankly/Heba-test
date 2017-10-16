@@ -1,5 +1,4 @@
 import React, { Component, PropTypes } from 'react';
-
 class RandomTest extends Component {
   static PropTypes = {
     h1: PropTypes.string,
@@ -7,7 +6,7 @@ class RandomTest extends Component {
   }
   render(){
     let {
-      h2 = 'sup this a github edit by Heba',
+      h2 = 'Heba is testing Modules here',
     } = this.props;
 
     let {
