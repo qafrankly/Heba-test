@@ -18,8 +18,8 @@
   },
   "propChoices": {
     "layout": [
-      "hero1",
-      "list1"
+      "list1",
+      "hero1"
     ]
   },
   "FRN_resourceEndpoints": [
