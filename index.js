@@ -16,6 +16,7 @@ class RandomTest extends Component {
     return (
       <div>
         <h2>{h2}</h2>
+        <pre>{this.props}</pre>
       </div>
     );
   }
