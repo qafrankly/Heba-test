@@ -10,7 +10,7 @@
     "title": "Test-heba",
     "titleColor": "#FFC300",
     "backgroundColor": "white",
-    "layout": "list",
+    "layout": "list1",
     "numberOfItems": 7,
     "textColor": "green",
     "heroImageBackgroundColor": "#2980b9",
@@ -18,8 +18,8 @@
   },
   "propChoices": {
     "layout": [
-      "hero",
-      "list"
+      "hero1",
+      "list1"
     ]
   },
   "FRN_resourceEndpoints": [
