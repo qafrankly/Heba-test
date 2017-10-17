@@ -1,7 +1,7 @@
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/Video/icon_stroke_media_video.svg",
   "tag": "QA",
-  "affiliates":[],
+  "affiliates":["matt"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
