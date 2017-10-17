@@ -1,7 +1,6 @@
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/Video/icon_stroke_media_video.svg",
   "tag": "QA",
-  "affiliates":["wnow"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
